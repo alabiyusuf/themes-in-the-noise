@@ -157,8 +157,8 @@ natural sentences; feeding them heavily preprocessed tokens degrades embedding q
 
 ## Article
 
-Non-technical write-up on Substack: [link]
-Also on Medium: [link]
+Non-technical write-up on Substack: https://yusufalabi.substack.com/p/i-analysed-831-papers-on-the-uk-housing?r=5uos48&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+Also on Medium: https://medium.com/@alabiyusuf793/i-analysed-831-papers-on-the-uk-housing-crisis-energy-retrofit-wasnt-what-i-expected-to-find-7651d3efeb3e
 
 ---
 
