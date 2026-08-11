@@ -1,0 +1,32 @@
+# Data — not redistributable under Scopus licence terms
+uk_housing_crisis_merged.csv
+*.csv
+
+# BERTopic interactive HTML outputs — generated on each run
+bertopic_*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda / pip
+*.egg-info/
+dist/
+build/
+
+# Saved model files
+*.pkl
+*.pickle
